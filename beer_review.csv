@@ -1,0 +1,5 @@
+"id_review";"beer_name";"user_id";"beer_rating_overall_quality";"hops_rating";"malt_rating";"review_comment";"review_date_time_added"
+1;"Duckpin";1;5;4;10;"this beer is great";"1984"
+2;"Loose Cannon";2;3;7;0;"this beer is ok";"1996"
+3;"National Bohemian";1;4;0;8;"this beer is good";"2010"
+4;"Blue Ribbon";3;1;0;2;"this beer is fun";"1998"
